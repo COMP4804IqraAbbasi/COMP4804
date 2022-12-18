@@ -1,5 +1,5 @@
 # COMP4804_Project
-This repository contains the complete source code for COMP4804 Data Analytics Project: Information Extraction through Knowledge Graphs. 
+This repository contains the complete source code for the COMP4804 Data Analytics Project: Information Extraction through Knowledge Graphs. 
 The pipeline and usage for each stage in the project is as follows:
 
 1. FilingScraper
