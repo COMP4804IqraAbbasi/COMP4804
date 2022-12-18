@@ -12,4 +12,4 @@ This application was used to annotate training and test samples for model traini
 Running `relation_extraction.py` would use the  relation extraction model to generate relation triplets from the scraped text. The relation extraction model is created based on REBEL, which is contained in the RelationExtraction folder. 
 
 4. Data postprocessing and Knowledge Graph Construction
-the `e2e_relation_extraction.ipynb` notebook cleans the extracted triplets and feeds them into the knowledge graph hosted by Neo4j.
+the e2e_relation_extraction.ipynb notebook cleans the extracted triplets and feeds them into the knowledge graph hosted by Neo4j.
