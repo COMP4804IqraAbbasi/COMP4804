@@ -2,7 +2,7 @@
 This repository contains the complete source code for the COMP4804 Data Analytics Project: Information Extraction through Knowledge Graphs. 
 The pipeline and usage for each stage in the project is as follows:
 
-1. FilingScraper:
+1. FilingScraperAndPostProcessing:
 This contains code for scraping filing information from the Securities and Exchange Commission website. After specifying company codes and their tickers in companies_list.txt, running `python edgar.py` would output and postprocess filing text and store them in the output_files folder.
 
 2. KGAnnotationTool:
